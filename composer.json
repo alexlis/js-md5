@@ -18,7 +18,7 @@
         "issues": "https://github.com/alexlis/js-md5/issues",
         "source": "https://github.com/alexlis/js-md5"
     },
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "require": {
         "bower-asset/spark-md5": "2.3.*"
     },

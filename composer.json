@@ -20,7 +20,7 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "bower-asset/spark-md5": "2.3.*"
+        "bower-asset/spark-md5": "2.*"
     },
     "require-dev": {
     },
